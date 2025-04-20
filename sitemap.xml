@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Startseite -->
+  <url>
+    <loc>https://zegobert.github.io/Selbstreflexion/index.html</loc>
+  </url>
+
+  <!-- Fragen 1 bis 24 -->
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question1.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question2.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question3.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question4.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question5.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question6.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question7.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question8.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question9.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question10.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question11.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question12.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question13.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question14.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question15.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question16.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question17.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question18.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question19.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question20.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question21.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question22.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question23.html</loc></url>
+  <url><loc>https://zegobert.github.io/Selbstreflexion/question24.html</loc></url>
+
+  <!-- Endseite -->
+  <url>
+    <loc>https://zegobert.github.io/Selbstreflexion/endphase.html</loc>
+  </url>
+
+</urlset>
