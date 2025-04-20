@@ -1,0 +1,3 @@
+Sitemap: https://zegobert.github.io/Selbstreflexion/sitemap.xml
+User-agent: *
+Disallow:
