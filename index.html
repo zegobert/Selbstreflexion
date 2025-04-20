@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bist du attraktiv? – Der Selbsttest</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    body {
+      background-color: #121212;
+      color: #e0e0e0;
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 2rem;
+    }
+
+    h1 {
+      color: #ff69b4;
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+      text-align: center;
+    }
+
+    .symbol {
+      font-size: 3rem;
+      text-align: center;
+      margin-bottom: 1rem;
+    }
+
+    .intro {
+      max-width: 800px;
+      margin: auto;
+      background-color: #1f1f1f;
+      padding: 2rem;
+      border-radius: 16px;
+      box-shadow: 0 0 25px rgba(255, 105, 180, 0.25);
+      animation: glow 4s ease-in-out infinite alternate;
+    }
+
+    @keyframes glow {
+      from {
+        box-shadow: 0 0 15px rgba(255, 105, 180, 0.2);
+      }
+      to {
+        box-shadow: 0 0 35px rgba(255, 105, 180, 0.4);
+      }
+    }
+
+    .intro p {
+      margin-bottom: 1.2rem;
+    }
+
+    .note {
+      margin-top: 1.5rem;
+      font-size: 0.9rem;
+      color: #bbbbbb;
+    }
+
+    .start-button {
+      display: block;
+      margin: 2rem auto 0;
+      padding: 1rem 2rem;
+      background-color: #ff69b4;
+      color: #121212;
+      font-weight: bold;
+      border: none;
+      border-radius: 12px;
+      cursor: pointer;
+      font-size: 1.2rem;
+      transition: background-color 0.3s;
+    }
+
+    .start-button:hover {
+      background-color: #ff85c1;
+    }
+
+    .hilfenummern {
+      margin-top: 2rem;
+      font-size: 0.85rem;
+      color: #999;
+    }
+
+    .hilfenummern a {
+      color: #999;
+      text-decoration: underline;
+    }
+
+    .image-container {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+
+    .image-container img {
+      max-width: 200px;
+      border-radius: 20px;
+      opacity: 0.9;
+    }
+  </style>
+</head>
+<body>
+  <div class="intro">
+    <div class="symbol">🪞</div>
+    <h1>Bist du attraktiv?</h1>
+
+    <div class="image-container">
+      <img src="https://images.unsplash.com/photo-1532777946376-1f14b596a572?auto=format&fit=crop&w=600&q=80" alt="Spiegelbild einer Person" />
+    </div>
+
+    <p>
+      👀 <strong>Dieser Selbsttest</strong> stellt dir 24 ehrliche Fragen über dein Auftreten, deinen Stil, deine Wirkung – und manchmal auch über das, was du lieber nicht hörst.
+    </p>
+    <p>
+      💡 Ziel ist nicht, dich schlecht fühlen zu lassen, sondern dich zum Nachdenken zu bringen. Ehrlich, direkt, aber nie böse.
+    </p>
+    <p>
+      🤝 Jeder hat Makel, jeder hat Stärken – Attraktivität ist keine Zahl, sondern Ausstrahlung.
+    </p>
+    <p>
+      🎭 <em>Übertreibung? Ja. Lüge? Nein.</em> Nimm’s nicht zu ernst – aber vielleicht doch ein bisschen.
+    </p>
+    <p class="note">
+      ⚠️ Diese Seite ist keine ärztlich geprüfte Plattform. Sie ersetzt keine Therapie oder professionelle Beratung.
+    </p>
+
+    <div class="hilfenummern">
+      <p><strong>Wenn es dir mental nicht gut geht, zögere nicht:</strong></p>
+      <ul>
+        <li>📞 Telefonseelsorge: <a href="tel:08001110111">0800 111 0 111</a> / <a href="tel:08001110222">0800 111 0 222</a></li>
+        <li>🌐 <a href="https://www.telefonseelsorge.de" target="_blank">www.telefonseelsorge.de</a></li>
+      </ul>
+    </div>
+
+    <button class="start-button" onclick="location.href='question1.html'">💫 Starte den Test</button>
+  </div>
+</body>
+</html>
